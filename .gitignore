@@ -12,8 +12,9 @@ out/
 .springBeans
 .sts4-cache
 /out/
-/.iml/
-/.idea/
+*.iml
+*.idea
+/HW.iml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
